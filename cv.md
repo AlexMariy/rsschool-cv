@@ -19,6 +19,7 @@
 * HTML
 * JS
 * CSS
+* SQL
 
 
 #### Sample Code
